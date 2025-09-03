@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm passionate about transforming business data in
 - Building comprehensive data analytics dashboards for business performance optimization
 - Leading academic initiatives and industry partnerships at Business Technology Association
 - Developing case competitions to bridge the gap between academia and industry
+- Finding a position such as Business Analyst or technical roles that use analytics and technology
 
 ### 🌱 I'm currently learning...
 - Advanced Python for data science and machine learning
