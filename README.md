@@ -60,18 +60,18 @@ York University | 2021 - 2025
 ![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshiakosha&show_icons=true&theme=gradient)
 
 ### 🏆 Key Achievements
-- 🎯 **VP of Academics** at Business Technology Association YorkU
-- 📊 **1+ Year** of professional data analysis experience
-- 💼 **Multiple leadership roles** across various industries
-- 📈 **Proven track record** in operations optimization and team management
+- **VP of Academics** at Business Technology Association YorkU
+- **1+ Year** of professional data analysis experience
+- **Multiple leadership roles** across various industries
+- **Proven track record** in operations optimization and team management
 
 ---
 
 ### ⚡ Fun Facts
-- 🎲 I love solving complex business problems with data-driven solutions
-- 📚 Always learning new technologies and methodologies in data science
-- 🤝 Passionate about mentoring students and early-career professionals
-- 🌟 Believe that the best insights come from asking the right questions
+- I love solving complex business problems with data-driven solutions
+- Always learning new technologies and methodologies in data science
+- Passionate about mentoring students and early-career professionals
+- Believe that the best insights come from asking the right questions
 
 ---
 
