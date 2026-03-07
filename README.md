@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Arshia Kosha
 
-## 📊 Data Analyst | 💼 Business Technology Professional | 🎓 VP @ BTA YorkU
-
 Welcome to my GitHub profile! I'm passionate about transforming business data into actionable insights and driving technological innovation in business operations.
 
 ---
