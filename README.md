@@ -82,15 +82,6 @@ Designed and built SQL data pipelines for ETL processes. Developed user-facing i
 
 ---
 
-## Contact
-
-LinkedIn: linkedin.com/in/arshiakosha
-Email: arshia.kosha81@gmail.com
-Portfolio: arshiakosha.github.io
-Location: Richmond Hill, Ontario, Canada
-
----
-
 ## Core Philosophy
 
 Data is not merely numbers—it is the foundation of informed decision-making and business success. I believe the most impactful insights emerge from asking the right questions, understanding operational context, and translating complex analysis into actionable strategy.
